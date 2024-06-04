@@ -1,0 +1,14 @@
+{
+  "name": "track-wallet",
+  "version": "1.0.0",
+  "description": "simple wallet info tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernos Distributed",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.9.0"
+  }
+}
